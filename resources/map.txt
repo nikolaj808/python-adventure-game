@@ -1,0 +1,4 @@
+GoldRoom\tOgreRoom\tFindDaggerRoom\GiantSpiderRoom\tGiantSpiderRoom\tEmptyCavePath\tEmptyCavePath
+EmptyCavePath\tEmptyCavePath\tEmptyCavePath\tGoldRoom\tOgreRoom\tOgreRoom\tLeaveCaveRoom
+EmptyCavePath\tGoldRoom\tFindDaggerRoom\tStartingRoom\tEmptyCavePath\tGiantSpiderRoom\tGoldRoom
+EmptyCavePath\tEmptyCavePath\tEmptyCavePath\tEmptyCavePath\tEmptyCavePath\tEmptyCavePath\tEmptyCavePath
